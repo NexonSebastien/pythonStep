@@ -1,0 +1,6 @@
+https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/
+
+VCC	5V
+Trig	Pin 11
+Echo	Pin 12
+GND	GND
